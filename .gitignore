@@ -51,3 +51,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Constants ###
+/src/com/aluracursos/moneyconverter/utils/Constants.java
